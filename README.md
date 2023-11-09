@@ -45,7 +45,7 @@ Getting Started
 
 bash
 Copy code
-git clone https://github.com/Aki12-3/html-css-calculator.git
+git clone https:[//github.com/Aki12-3/html-css-calculator.git](https://github.com/Aki12-3/Calc-Using-Html-css/tree/main)
 Open the HTML File:
 
 Navigate to the project directory and open the index.html file in a web browser.
